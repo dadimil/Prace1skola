@@ -31,5 +31,10 @@ namespace Prace1skola
         {
             MessageBox.Show("Čauahoj");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("HAHAHHA jsem doma xd");
+        }
     }
 }
