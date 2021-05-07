@@ -21,5 +21,10 @@ namespace Prace1skola
         {
             MessageBox.Show("Zdravím");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Brý den");
+        }
     }
 }
